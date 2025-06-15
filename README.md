@@ -1,5 +1,5 @@
 # ✨ Sivan Zargari ✨  
-Full Stack Developer  
+**Full Stack Developer**  
 
 ---
 
